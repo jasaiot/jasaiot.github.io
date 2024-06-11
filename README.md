@@ -1,2 +1,2 @@
 # Landing Page of JASA IOT
-> source from HTML5up.
+jasaiot.github.io
